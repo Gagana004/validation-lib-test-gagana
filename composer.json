@@ -1,0 +1,13 @@
+{
+    "name": "test/project",
+    "require": {
+    "cmm/validation-lib": "*"
+},
+    "repositories": [
+    {
+        "type": "path",
+        "url": "../validation-lib"
+    }
+],
+    "minimum-stability": "dev"
+}
